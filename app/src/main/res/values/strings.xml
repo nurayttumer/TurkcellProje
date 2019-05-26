@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Turkcell Proje</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Home Page</string>
+    <string name="menu_history">History</string>
+    <string name="menu_membership">Membership</string>
+    <string name="menu_logout">Logout</string>
+</resources>
