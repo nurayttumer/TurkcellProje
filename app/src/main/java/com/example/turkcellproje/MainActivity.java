@@ -60,11 +60,11 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_home) {
             // Handle the camera action
         } else if (id == R.id.nav_history) {
-
+//asdsadas
         } else if (id == R.id.nav_membership) {}
 
 //        } else if (id == R.id.nav_logout) {
-//
+//kdljasdlkajlsd
 //        }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
