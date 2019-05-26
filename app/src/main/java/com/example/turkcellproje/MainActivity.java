@@ -61,11 +61,11 @@ public class MainActivity extends AppCompatActivity
             // Handle the camera action
         } else if (id == R.id.nav_history) {
 
-        } else if (id == R.id.nav_membership) {
+        } else if (id == R.id.nav_membership) {}
 
-        } else if (id == R.id.nav_logout) {
-
-        }
+//        } else if (id == R.id.nav_logout) {
+//
+//        }
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
